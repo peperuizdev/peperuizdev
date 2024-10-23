@@ -10,7 +10,6 @@ Si quieres saber más sobre mí y mi experiencia, puedes descargar mi currículu
 
 ## 📫 ¡Conéctate conmigo!
 - **Email**: jorsqn@gmail.com
-- **LinkedIn**: [Tu LinkedIn](enlace-a-tu-perfil)
-- **Twitter**: [Tu Twitter](enlace-a-tu-perfil)
+- **LinkedIn**: [Mi LinkedIn](https://www.linkedin.com/in/josealfonsoruiz/)
 
 ¡Gracias por visitar mi perfil! 🚀 Espero que podamos compartir ideas y proyectos pronto. ¡Vamos a hacer cosas increíbles juntos!
