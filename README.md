@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy **Jose Alfonso Ruiz**!
+# 👋 ¡Hola, soy **Pepe**!
 
 Soy un **desarrollador web junior** que actualmente está navegando por las emocionantes aguas de un **Bootcamp de Desarrollo Web Full Stack**. Estoy aquí para aprender, experimentar y crear cosas geniales con código. ¡La tecnología me apasiona y siempre estoy listo para un nuevo desafío!
 
