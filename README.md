@@ -6,7 +6,7 @@ Soy un **desarrollador web junior** que actualmente está navegando por las emoc
 En este espacio, comparto mis proyectos, ideas y locuras digitales. Me encanta colaborar y aprender de otros, así que si tienes una idea loca o un proyecto en mente, ¡no dudes en contactarme!
 
 ## 📂 ¡Descarga mi CV!
-Si quieres saber más sobre mí y mi experiencia, puedes descargar mi currículum aquí: [Descargar CV](https://github.com/jruizndev/jruizndev/blob/main/CV_JoseAlfonsoRuiz.pdf).
+Si quieres saber más sobre mí y mi experiencia, puedes descargar mi currículum aquí: [Descargar CV](https://github.com/jruizndev/jruizndev/blob/main/CV-Jose-Alfonso-Ruiz.pdf).
 
 ## 📫 ¡Conéctate conmigo!
 - **Email**: jorsqn@gmail.com
