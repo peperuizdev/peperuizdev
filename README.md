@@ -73,8 +73,14 @@ Mi background en Comunicación Audiovisual y Branded Content me permite aportar 
 ## 📊 Contribuciones y Estadísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jruizndev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jruizndev&theme=midnight-purple&hide_border=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jruizndev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jruizndev&theme=midnight-purple&hide_border=true"/>
+</div>
+
+### 🚀 Uso de Tecnologías
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jruizndev&layout=compact&theme=midnight-purple&hide_border=true"/>
 </div>
 
 
@@ -165,6 +171,7 @@ API REST completa con arquitectura MVC que incluye:
 
 </div>
 
+![snake gif](https://github.com/jruizndev/jruizndev/blob/main/github-contribution-grid-snake.svg)
 
 
 <div align="center">
