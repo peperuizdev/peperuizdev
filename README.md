@@ -171,7 +171,7 @@ API REST completa con arquitectura MVC que incluye:
 
 </div>
 
-![snake gif](https://github.com/jruizndev/jruizndev/blob/main/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/jruizndev/jruizndev/blob/main/dist/github-contribution-grid-snake.svg)
 
 
 <div align="center">
@@ -186,6 +186,6 @@ API REST completa con arquitectura MVC que incluye:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jruizndev&style=flat-square&color=blue)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+![snake gif](https://github.com/jruizndev/jruizndev/blob/main/dist/github-contribution-grid-snake.svg)
 
 </div>
