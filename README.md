@@ -186,6 +186,5 @@ API REST completa con arquitectura MVC que incluye:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jruizndev&style=flat-square&color=blue)
 
-![snake gif](https://github.com/jruizndev/jruizndev/blob/main/dist/github-contribution-grid-snake.svg)
 
 </div>
