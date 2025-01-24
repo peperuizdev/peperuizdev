@@ -171,8 +171,6 @@ API REST completa con arquitectura MVC que incluye:
 
 </div>
 
-![snake gif](https://github.com/jruizndev/jruizndev/blob/main/github-contribution-grid-snake.svg)
-
 
 <div align="center">
 
