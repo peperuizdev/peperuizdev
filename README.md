@@ -74,7 +74,7 @@ Mi background en Comunicación Audiovisual y Branded Content me permite aportar 
 
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jruizndev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
- <img height="180em" src="https://streak-stats.demolab.com/?user=jruizndev&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.demolab.com?user=jruizndev&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
 ### 🚀 Uso de Tecnologías
