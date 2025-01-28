@@ -15,9 +15,9 @@
 
 ## ⚡ Sobre mí
 
-Desarrollador Full Stack con sólida formación técnica y experiencia en metodologías ágiles, especializado en crear soluciones web eficientes y escalables. Mi enfoque se centra en implementar arquitecturas REST robustas y desarrollar interfaces responsivas utilizando React y Node.js.
+**Desarrollador Full Stack** con sólida formación técnica y experiencia en **metodologías ágiles**, especializado en crear **soluciones web eficientes y escalables**. Mi enfoque se centra en implementar **arquitecturas REST** robustas y desarrollar **interfaces responsivas** utilizando **React** y **Node.js**.
 
-Mi background en Comunicación Audiovisual y Branded Content me permite aportar una perspectiva única en la creación de experiencias digitales, combinando funcionalidad con diseño intuitivo. La experiencia en gestión de equipos y atención al cliente me ha dotado de excelentes habilidades comunicativas y capacidad de resolución de problemas, permitiéndome colaborar eficazmente en equipos multidisciplinares.
+Mi background en **Comunicación Audiovisual** y **Branded Content** me permite aportar una perspectiva única en la creación de experiencias digitales, combinando **funcionalidad con diseño intuitivo**. La experiencia en **gestión de equipos** y **atención al cliente** me ha dotado de excelentes **habilidades comunicativas** y **capacidad de resolución de problemas**, permitiéndome colaborar eficazmente en **equipos multidisciplinares**.
 
 ## 🛠️ Stack Tecnológico
 
