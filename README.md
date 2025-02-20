@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Jose%20Alfonso%20Ruiz&fontSize=70&fontAlignY=35&desc=Desarrollador%20Web%20Full%20Stack&descSize=20&descAlignY=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Pepe%20%20Ruiz&fontSize=70&fontAlignY=35&desc=Desarrollador%20Web%20Full%20Stack&descSize=20&descAlignY=60&animation=fadeIn" />
 
 <div style="background: linear-gradient(90deg, #4568dc, #b06ab3); padding: 20px; border-radius: 10px; margin: 20px 0;">
 
