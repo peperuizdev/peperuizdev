@@ -33,30 +33,51 @@ Mi background en **Comunicación Audiovisual** y **Branded Content** me permite 
 ![React](https://custom-icon-badges.demolab.com/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Router](https://custom-icon-badges.demolab.com/badge/React_Router-CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Hook Form](https://custom-icon-badges.demolab.com/badge/React_Hook_Form-EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Vite](https://custom-icon-badges.demolab.com/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Shadcn UI](https://custom-icon-badges.demolab.com/badge/Shadcn_UI-000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### Backend
-![TypeScript](https://custom-icon-badges.demolab.com/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://custom-icon-badges.demolab.com/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://custom-icon-badges.demolab.com/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://custom-icon-badges.demolab.com/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://custom-icon-badges.demolab.com/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Sequelize](https://custom-icon-badges.demolab.com/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Express Validator](https://custom-icon-badges.demolab.com/badge/Express_Validator-000000.svg?style=for-the-badge&logo=express&logoColor=white)
 
 ### Bases de datos
 ![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://custom-icon-badges.demolab.com/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://custom-icon-badges.demolab.com/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### IA & Data Science
+![Pandas](https://custom-icon-badges.demolab.com/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://custom-icon-badges.demolab.com/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://custom-icon-badges.demolab.com/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![BeautifulSoup](https://custom-icon-badges.demolab.com/badge/BeautifulSoup-43B02A.svg?style=for-the-badge&logo=soup&logoColor=white)
+![Selenium](https://custom-icon-badges.demolab.com/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Machine Learning](https://custom-icon-badges.demolab.com/badge/Machine_Learning-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### Testing
 ![Jest](https://custom-icon-badges.demolab.com/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://custom-icon-badges.demolab.com/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white)
 ![Supertest](https://custom-icon-badges.demolab.com/badge/Supertest-009688.svg?style=for-the-badge&logo=supertest&logoColor=white)
+![Pytest](https://custom-icon-badges.demolab.com/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
 ![TDD](https://custom-icon-badges.demolab.com/badge/TDD-FF2D20.svg?style=for-the-badge&logo=testing-library&logoColor=white)
 
-### Otros
+### DevOps & Herramientas
 ![Git](https://custom-icon-badges.demolab.com/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Projects](https://custom-icon-badges.demolab.com/badge/GitHub_Projects-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://custom-icon-badges.demolab.com/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://custom-icon-badges.demolab.com/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://custom-icon-badges.demolab.com/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Scrum](https://custom-icon-badges.demolab.com/badge/Scrum-009FDA.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Jira](https://custom-icon-badges.demolab.com/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+### Diseño
+![Figma](https://custom-icon-badges.demolab.com/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Premiere](https://custom-icon-badges.demolab.com/badge/Adobe_Premiere-9999FF.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
 ### Buenas prácticas
 ![Clean Code](https://custom-icon-badges.demolab.com/badge/Clean_Code-019733.svg?style=for-the-badge)
