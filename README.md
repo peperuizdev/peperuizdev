@@ -23,7 +23,7 @@ Trabajo eficientemente con **metodologías ágiles** y me adapto rápidamente a 
 
 ## 🛠️ Stack Tecnológico
 
-<div align="center">
+<div>
 
 ### Frontend
 ![HTML5](https://custom-icon-badges.demolab.com/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
