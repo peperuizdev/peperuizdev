@@ -96,14 +96,14 @@ Trabajo eficientemente con **metodologías ágiles** y me adapto rápidamente a 
 ## 📊 Contribuciones y Estadísticas
 
 <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jruizndev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://streak-stats.vercel.app/?user=jruizndev&theme=midnight-purple&hide_border=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=peperuizdev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180px" src="https://streak-stats.vercel.app/?user=peperuizdev&theme=midnight-purple&hide_border=true"/>
 </div>
 
 ### 🚀 Uso de Tecnologías
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jruizndev&layout=compact&theme=midnight-purple&hide_border=true"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peperuizdev&layout=compact&theme=midnight-purple&hide_border=true"/>
 </div>
 
 
@@ -116,8 +116,8 @@ Trabajo eficientemente con **metodologías ágiles** y me adapto rápidamente a 
 <p align="center"><strong>Dashboard de Gestión para Orange Digital Center</strong></p>
 
 <div align="center" style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
-  <img src="https://github.com/jruizndev/jruizndev/blob/main/ODC_desktop.png" width="75%"/>
-  <img src="https://github.com/jruizndev/jruizndev/blob/main/ODC_mobile.png" width="23%" style="object-fit: contain;"/>
+  <img src="https://github.com/peperuizdev/peperuizdev/blob/main/ODC_desktop.png" width="75%"/>
+  <img src="https://github.com/peperuizdev/peperuizdev/blob/main/ODC_mobile.png" width="23%" style="object-fit: contain;"/>
 </div>
 
 Aplicación para centralizar y optimizar la gestión de inscripciones en Orange Digital Center:
@@ -144,8 +144,8 @@ Aplicación para centralizar y optimizar la gestión de inscripciones en Orange 
 <p align="center"><strong>Plataforma Social para Memes de Gatos</strong></p>
 
 <div align="center" style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
-  <img src="https://github.com/jruizndev/jruizndev/blob/main/MeCatMuseum_desktop.png" width="75%"/>
-  <img src="https://github.com/jruizndev/jruizndev/blob/main/MeCatMuseum_mobile.png" width="23%" style="object-fit: contain;"/>
+  <img src="https://github.com/peperuizdev/peperuizdev/blob/main/MeCatMuseum_desktop.png" width="75%"/>
+  <img src="https://github.com/peperuizdev/peperuizdev/blob/main/MeCatMuseum_mobile.png" width="23%" style="object-fit: contain;"/>
 </div>
 
 Aplicación CRUD desarrollada con React que incluye:
@@ -161,7 +161,7 @@ Aplicación CRUD desarrollada con React que incluye:
 ![Tailwind](https://custom-icon-badges.demolab.com/badge/Tailwind-06B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JSON Server](https://custom-icon-badges.demolab.com/badge/JSON_Server-000000.svg?style=flat-square&logo=json&logoColor=white)
 
-[![Repo](https://custom-icon-badges.demolab.com/badge/-Ver%20Proyecto-1F222E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jruizndev/memecatmuseum)
+[![Repo](https://custom-icon-badges.demolab.com/badge/-Ver%20Proyecto-1F222E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peperuizdev/memecatmuseum)
 
 </div>
 
@@ -170,8 +170,8 @@ Aplicación CRUD desarrollada con React que incluye:
 <p align="center"><strong>Plataforma de Adopción de Mascotas</strong></p>
 
 <div align="center" style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
-  <img src="https://github.com/jruizndev/jruizndev/blob/main/RescueFactory_desktop.png" width="75%"/>
-  <img src="https://github.com/jruizndev/jruizndev/blob/main/RescueFactory_mobile.png" width="23%" style="object-fit: contain;"/>
+  <img src="https://github.com/peperuizdev/peperuizdev/blob/main/RescueFactory_desktop.png" width="75%"/>
+  <img src="https://github.com/peperuizdev/peperuizdev/blob/main/RescueFactory_mobile.png" width="23%" style="object-fit: contain;"/>
 </div>
 
 API REST completa con arquitectura MVC que incluye:
@@ -205,7 +205,7 @@ API REST completa con arquitectura MVC que incluye:
 <br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Abierto a colaboraciones
 
-![Profile Views](https://komarev.com/ghpvc/?username=jruizndev&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=peperuizdev&style=flat-square&color=blue)
 
 
 </div>
