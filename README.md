@@ -43,6 +43,7 @@ Trabajo eficientemente con **metodologías ágiles** y me adapto rápidamente a 
 ![Express](https://custom-icon-badges.demolab.com/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://custom-icon-badges.demolab.com/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://custom-icon-badges.demolab.com/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://custom-icon-badges.demolab.com/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Sequelize](https://custom-icon-badges.demolab.com/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Express Validator](https://custom-icon-badges.demolab.com/badge/Express_Validator-000000.svg?style=for-the-badge&logo=express&logoColor=white)
@@ -59,6 +60,12 @@ Trabajo eficientemente con **metodologías ágiles** y me adapto rápidamente a 
 ![BeautifulSoup](https://custom-icon-badges.demolab.com/badge/BeautifulSoup-43B02A.svg?style=for-the-badge&logo=soup&logoColor=white)
 ![Selenium](https://custom-icon-badges.demolab.com/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![Machine Learning](https://custom-icon-badges.demolab.com/badge/Machine_Learning-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://custom-icon-badges.demolab.com/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-11557C.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://custom-icon-badges.demolab.com/badge/Seaborn-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Regresión](https://custom-icon-badges.demolab.com/badge/Regresión-4B8BBE.svg?style=for-the-badge&logo=python&logoColor=white)
+![Clasificación](https://custom-icon-badges.demolab.com/badge/Clasificación-4B8BBE.svg?style=for-the-badge&logo=python&logoColor=white)
+![Modelos Predictivos](https://custom-icon-badges.demolab.com/badge/Modelos_Predictivos-4B8BBE.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### Testing
 ![Jest](https://custom-icon-badges.demolab.com/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
