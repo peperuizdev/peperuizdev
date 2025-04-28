@@ -111,7 +111,7 @@ Trabajo eficientemente con **metodologías ágiles** y me adapto rápidamente a 
 
 ## 🚀 Proyectos Destacados
 
-### 📊 ODC Manager 
+### 📊 Orange Digital Center Manager 
 
 <p align="center"><strong>Dashboard de Gestión para Orange Digital Center</strong></p>
 
@@ -136,6 +136,34 @@ Aplicación para centralizar y optimizar la gestión de inscripciones en Orange 
 ![Sequelize](https://custom-icon-badges.demolab.com/badge/Sequelize-52B0E7.svg?style=flat-square&logo=sequelize&logoColor=white)
 
 [![Repo](https://custom-icon-badges.demolab.com/badge/-Ver%20Proyecto-1F222E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarthVada36/odc_management_project)
+
+</div>
+
+### 🔍 The Critical Lens
+
+<p align="center"><strong>Plataforma de Análisis de Credibilidad Informativa</strong></p>
+
+<div align="center" style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
+  <img src="https://github.com/Bootcamp-IA-P4/the-critical-lens/blob/main/static/img/Desktop.png" width="75%"/>
+  <img src="https://github.com/Bootcamp-IA-P4/the-critical-lens/blob/main/static/img/Mobile.png" width="23%" style="object-fit: contain;"/>
+</div>
+
+Aplicación desarrollada para combatir la desinformación mediante el pensamiento crítico:
+- 📊 Extracción y visualización de datos de verificaciones de hechos
+- 🔍 Analizador de credibilidad mediante algoritmos basados en reglas
+- 🧠 Arquitectura modular preparada para integrar modelos de ML e IA
+- 📱 Interfaz limpia y responsiva inspirada en medios digitales
+
+<div align="center">
+
+![Django](https://custom-icon-badges.demolab.com/badge/Django-092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Tailwind](https://custom-icon-badges.demolab.com/badge/Tailwind-06B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://custom-icon-badges.demolab.com/badge/PostgreSQL-336791.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://custom-icon-badges.demolab.com/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Chart.js](https://custom-icon-badges.demolab.com/badge/Chart.js-FF6384.svg?style=flat-square&logo=chart-dot-js&logoColor=white)
+
+[![Repo](https://custom-icon-badges.demolab.com/badge/-Ver%20Proyecto-1F222E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bootcamp-IA-P4/the-critical-lens)
 
 </div>
 
