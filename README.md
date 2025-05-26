@@ -8,7 +8,7 @@
 
 </div>
 
-[<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in//)
+[<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/peperuiznieto/)
 [<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:jorsqn@gmail.com)
 
 </div>
@@ -28,14 +28,11 @@ Trabajo eficientemente con **metodologías ágiles** y me adapto rápidamente a 
 ### Frontend
 ![HTML5](https://custom-icon-badges.demolab.com/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://custom-icon-badges.demolab.com/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://custom-icon-badges.demolab.com/badge/SASS-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind](https://custom-icon-badges.demolab.com/badge/Tailwind-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://custom-icon-badges.demolab.com/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://custom-icon-badges.demolab.com/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://custom-icon-badges.demolab.com/badge/React_Router-CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://custom-icon-badges.demolab.com/badge/React_Hook_Form-EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Vite](https://custom-icon-badges.demolab.com/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://custom-icon-badges.demolab.com/badge/Tailwind-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://custom-icon-badges.demolab.com/badge/SASS-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Shadcn UI](https://custom-icon-badges.demolab.com/badge/Shadcn_UI-000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### Backend
@@ -46,57 +43,46 @@ Trabajo eficientemente con **metodologías ágiles** y me adapto rápidamente a 
 ![Flask](https://custom-icon-badges.demolab.com/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Sequelize](https://custom-icon-badges.demolab.com/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=sequelize&logoColor=white)
-![Express Validator](https://custom-icon-badges.demolab.com/badge/Express_Validator-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://custom-icon-badges.demolab.com/badge/JWT-000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
-### Bases de datos
+### Bases de Datos
 ![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://custom-icon-badges.demolab.com/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://custom-icon-badges.demolab.com/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://custom-icon-badges.demolab.com/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://custom-icon-badges.demolab.com/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
-### IA & Data Science
+### AI & Data Science
+![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://custom-icon-badges.demolab.com/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://custom-icon-badges.demolab.com/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://custom-icon-badges.demolab.com/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![BeautifulSoup](https://custom-icon-badges.demolab.com/badge/BeautifulSoup-43B02A.svg?style=for-the-badge&logo=soup&logoColor=white)
-![Selenium](https://custom-icon-badges.demolab.com/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
-![Machine Learning](https://custom-icon-badges.demolab.com/badge/Machine_Learning-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![XGBoost](https://custom-icon-badges.demolab.com/badge/XGBoost-FF6600.svg?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Scikit-Learn](https://custom-icon-badges.demolab.com/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-11557C.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://custom-icon-badges.demolab.com/badge/Seaborn-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://custom-icon-badges.demolab.com/badge/Machine_Learning-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![EDA](https://custom-icon-badges.demolab.com/badge/EDA-4B8BBE.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Regresión](https://custom-icon-badges.demolab.com/badge/Regresión-4B8BBE.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Clasificación](https://custom-icon-badges.demolab.com/badge/Clasificación-4B8BBE.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Modelos Predictivos](https://custom-icon-badges.demolab.com/badge/Modelos_Predictivos-4B8BBE.svg?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-11557C.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://custom-icon-badges.demolab.com/badge/Seaborn-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://custom-icon-badges.demolab.com/badge/BeautifulSoup-43B02A.svg?style=for-the-badge&logo=soup&logoColor=white)
+![Selenium](https://custom-icon-badges.demolab.com/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
-### Testing
-![Jest](https://custom-icon-badges.demolab.com/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
-![Vitest](https://custom-icon-badges.demolab.com/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white)
-![Supertest](https://custom-icon-badges.demolab.com/badge/Supertest-009688.svg?style=for-the-badge&logo=supertest&logoColor=white)
-![Pytest](https://custom-icon-badges.demolab.com/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
-![TDD](https://custom-icon-badges.demolab.com/badge/TDD-FF2D20.svg?style=for-the-badge&logo=testing-library&logoColor=white)
-
-### DevOps & Herramientas
+### Testing & DevOps
 ![Git](https://custom-icon-badges.demolab.com/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Projects](https://custom-icon-badges.demolab.com/badge/GitHub_Projects-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://custom-icon-badges.demolab.com/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://custom-icon-badges.demolab.com/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://custom-icon-badges.demolab.com/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Scrum](https://custom-icon-badges.demolab.com/badge/Scrum-009FDA.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Jira](https://custom-icon-badges.demolab.com/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://custom-icon-badges.demolab.com/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Render](https://custom-icon-badges.demolab.com/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Vitest](https://custom-icon-badges.demolab.com/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white)
+![Jest](https://custom-icon-badges.demolab.com/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Supertest](https://custom-icon-badges.demolab.com/badge/Supertest-009688.svg?style=for-the-badge&logo=supertest&logoColor=white)
+![Pytest](https://custom-icon-badges.demolab.com/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
 
 ### Diseño
 ![Figma](https://custom-icon-badges.demolab.com/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Premiere](https://custom-icon-badges.demolab.com/badge/Adobe_Premiere-9999FF.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-
-### Buenas prácticas
-![Clean Code](https://custom-icon-badges.demolab.com/badge/Clean_Code-019733.svg?style=for-the-badge)
-![MVC](https://custom-icon-badges.demolab.com/badge/MVC-43853D.svg?style=for-the-badge)
-![SOLID](https://custom-icon-badges.demolab.com/badge/SOLID-FF9800.svg?style=for-the-badge)
-![POO](https://custom-icon-badges.demolab.com/badge/POO-3178C6.svg?style=for-the-badge)
-
-### Seguridad
-![JWT](https://custom-icon-badges.demolab.com/badge/JWT-000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![Bcrypt](https://custom-icon-badges.demolab.com/badge/Bcrypt-338833.svg?style=for-the-badge)
 
 </div>
 
@@ -113,18 +99,17 @@ Trabajo eficientemente con **metodologías ágiles** y me adapto rápidamente a 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peperuizdev&layout=compact&theme=midnight-purple&hide_border=true"/>
 </div>
 
-
-</div>
-
 ## 🚀 Proyectos Destacados
 
 ### 📊 Orange Digital Center Manager 
 
 <p align="center"><strong>Dashboard de Gestión para Orange Digital Center</strong></p>
 
-<div align="center" style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
-  <img src="https://github.com/peperuizdev/peperuizdev/blob/main/ODC_desktop.png" width="75%"/>
-  <img src="https://github.com/peperuizdev/peperuizdev/blob/main/ODC_mobile.png" width="23%" style="object-fit: contain;"/>
+<div align="center">
+  <img src="https://github.com/peperuizdev/peperuizdev/blob/main/ODC_desktop.png" alt="Vista Desktop" width="450" style="margin-right: 20px;"/>
+  <img src="https://github.com/peperuizdev/peperuizdev/blob/main/ODC_mobile.png" alt="Vista Móvil" width="135"/>
+  <br/>
+  <em>Interfaz Desktop y Móvil - Dashboard administrativo completo</em>
 </div>
 
 Aplicación para centralizar y optimizar la gestión de inscripciones en Orange Digital Center:
@@ -146,13 +131,49 @@ Aplicación para centralizar y optimizar la gestión de inscripciones en Orange 
 
 </div>
 
+### 🎯 Predictor Académico
+
+<p align="center"><strong>Sistema de Predicción de Rendimiento Académico</strong></p>
+
+<div align="center">
+  <img src="https://github.com/Jorgeluuu/Multiclass_Clasification/blob/feature/frontend/client/src/assets/images/Macbook-Pro-16-2110x1286.png" alt="Vista Desktop" width="450" style="margin-right: 20px;"/>
+  <img src="https://github.com/Jorgeluuu/Multiclass_Clasification/blob/feature/frontend/client/src/assets/images/iPhone-14-Pro-Max-473x968.png" alt="Vista Móvil" width="135"/>
+  <br/>
+  <em>Interfaz Desktop y Móvil - Predicciones ML en tiempo real</em>
+</div>
+
+Sistema de predicción del rendimiento académico utilizando algoritmos de Machine Learning:
+- 🤖 Modelo XGBoost para clasificación multiclase con alta precisión
+- 📊 EDA completo y visualizaciones interactivas de datos académicos
+- 🚀 API REST con FastAPI y frontend React para predicciones en tiempo real
+- ☁️ Deployment completo en Render con base de datos PostgreSQL
+
+<div align="center">
+
+![React](https://custom-icon-badges.demolab.com/badge/React-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://custom-icon-badges.demolab.com/badge/Vite-646CFF.svg?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://custom-icon-badges.demolab.com/badge/Tailwind-06B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![FastAPI](https://custom-icon-badges.demolab.com/badge/FastAPI-009688.svg?style=flat-square&logo=fastapi&logoColor=white)
+![XGBoost](https://custom-icon-badges.demolab.com/badge/XGBoost-FF6600.svg?style=flat-square&logo=xgboost&logoColor=white)
+![PostgreSQL](https://custom-icon-badges.demolab.com/badge/PostgreSQL-336791.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://custom-icon-badges.demolab.com/badge/Supabase-3ECF8E.svg?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://custom-icon-badges.demolab.com/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![Render](https://custom-icon-badges.demolab.com/badge/Render-46E3B7.svg?style=flat-square&logo=render&logoColor=white)
+
+[![Web](https://custom-icon-badges.demolab.com/badge/-Ver%20Web-0052CC?style=for-the-badge&logo=globe&logoColor=white)](https://student-predictor-oelj.onrender.com/)
+[![Repo](https://custom-icon-badges.demolab.com/badge/-Ver%20Proyecto-1F222E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jorgeluuu/Multiclass_Clasification)
+
+</div>
+
 ### 🔍 The Critical Lens
 
 <p align="center"><strong>Plataforma de Análisis de Credibilidad Informativa</strong></p>
 
-<div align="center" style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
-  <img src="https://github.com/Bootcamp-IA-P4/the-critical-lens/blob/main/static/img/Desktop.png" width="75%"/>
-  <img src="https://github.com/Bootcamp-IA-P4/the-critical-lens/blob/main/static/img/Mobile.png" width="23%" style="object-fit: contain;"/>
+<div align="center">
+  <img src="https://github.com/Bootcamp-IA-P4/the-critical-lens/blob/main/static/img/Desktop.png" alt="Vista Desktop" width="450" style="margin-right: 20px;"/>
+  <img src="https://github.com/Bootcamp-IA-P4/the-critical-lens/blob/main/static/img/Mobile.png" alt="Vista Móvil" width="135"/>
+  <br/>
+  <em>Interfaz Desktop y Móvil - Análisis de credibilidad informativa</em>
 </div>
 
 Aplicación desarrollada para combatir la desinformación mediante el pensamiento crítico:
@@ -174,62 +195,6 @@ Aplicación desarrollada para combatir la desinformación mediante el pensamient
 
 </div>
 
-### 😺 MeCat Museum
-
-<p align="center"><strong>Plataforma Social para Memes de Gatos</strong></p>
-
-<div align="center" style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
-  <img src="https://github.com/peperuizdev/peperuizdev/blob/main/MeCatMuseum_desktop.png" width="75%"/>
-  <img src="https://github.com/peperuizdev/peperuizdev/blob/main/MeCatMuseum_mobile.png" width="23%" style="object-fit: contain;"/>
-</div>
-
-Aplicación CRUD desarrollada con React que incluye:
-- 🖼️ Galería con layout Masonry para visualización óptima
-- 🔄 Implementación de librería Flip para animaciones
-- 📱 Diseño responsive y experiencia de usuario intuitiva
-- 🔧 JSON Server para simular backend y operaciones CRUD
-
-<div align="center">
-
-![React](https://custom-icon-badges.demolab.com/badge/React-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://custom-icon-badges.demolab.com/badge/Vite-646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://custom-icon-badges.demolab.com/badge/Tailwind-06B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![JSON Server](https://custom-icon-badges.demolab.com/badge/JSON_Server-000000.svg?style=flat-square&logo=json&logoColor=white)
-
-[![Repo](https://custom-icon-badges.demolab.com/badge/-Ver%20Proyecto-1F222E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peperuizdev/memecatmuseum)
-
-</div>
-
-### 🐾 Rescue Factory
-
-<p align="center"><strong>Plataforma de Adopción de Mascotas</strong></p>
-
-<div align="center" style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
-  <img src="https://github.com/peperuizdev/peperuizdev/blob/main/RescueFactory_desktop.png" width="75%"/>
-  <img src="https://github.com/peperuizdev/peperuizdev/blob/main/RescueFactory_mobile.png" width="23%" style="object-fit: contain;"/>
-</div>
-
-API REST completa con arquitectura MVC que incluye:
-- 🔐 Sistema de autenticación y autorización
-- 📝 Gestión de formularios con React Hook Form
-- 🖼️ Manejo de archivos multimedia e imágenes
-- 📊 Base de datos relacional con Sequelize ORM
-
-<div align="center">
-
-![React](https://custom-icon-badges.demolab.com/badge/React-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB)
-![React Router](https://custom-icon-badges.demolab.com/badge/React_Router-CA4245.svg?style=flat-square&logo=react-router&logoColor=white)
-![React Hook Form](https://custom-icon-badges.demolab.com/badge/React_Hook_Form-EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white)
-![Node.js](https://custom-icon-badges.demolab.com/badge/Node.js-339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://custom-icon-badges.demolab.com/badge/Express-000000.svg?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Sequelize](https://custom-icon-badges.demolab.com/badge/Sequelize-52B0E7.svg?style=flat-square&logo=sequelize&logoColor=white)
-
-[![Repo](https://custom-icon-badges.demolab.com/badge/-Ver%20Proyecto-1F222E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a-bac-0/rescue_factory)
-
-</div>
-
-
 <div align="center">
 
 ---
@@ -241,6 +206,5 @@ API REST completa con arquitectura MVC que incluye:
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Abierto a colaboraciones
 
 ![Profile Views](https://komarev.com/ghpvc/?username=peperuizdev&style=flat-square&color=blue)
-
 
 </div>
