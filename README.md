@@ -106,8 +106,8 @@ Trabajo eficientemente con **metodologías ágiles** y me adapto rápidamente a 
 <p align="center"><strong>Dashboard de Gestión para Orange Digital Center</strong></p>
 
 <div align="center">
-  <img src="https://github.com/peperuizdev/peperuizdev/blob/main/ODC_desktop.png" alt="Vista Desktop" width="450" style="margin-right: 20px;"/>
-  <img src="https://github.com/peperuizdev/peperuizdev/blob/main/ODC_mobile.png" alt="Vista Móvil" width="135"/>
+  <img src="https://github.com/peperuizdev/peperuizdev/blob/main/ODC_desktop.png" alt="Vista Desktop" width="600" style="margin-right: 30px;"/>
+  <img src="https://github.com/peperuizdev/peperuizdev/blob/main/ODC_mobile.png" alt="Vista Móvil" width="180"/>
   <br/>
   <em>Interfaz Desktop y Móvil - Dashboard administrativo completo</em>
 </div>
@@ -136,8 +136,8 @@ Aplicación para centralizar y optimizar la gestión de inscripciones en Orange 
 <p align="center"><strong>Sistema de Predicción de Rendimiento Académico</strong></p>
 
 <div align="center">
-  <img src="https://github.com/Jorgeluuu/Multiclass_Clasification/blob/feature/frontend/client/src/assets/images/Macbook-Pro-16-2110x1286.png" alt="Vista Desktop" width="450" style="margin-right: 20px;"/>
-  <img src="https://github.com/Jorgeluuu/Multiclass_Clasification/blob/feature/frontend/client/src/assets/images/iPhone-14-Pro-Max-473x968.png" alt="Vista Móvil" width="135"/>
+  <img src="https://github.com/Jorgeluuu/Multiclass_Clasification/blob/feature/frontend/client/src/assets/images/Macbook-Pro-16-2110x1286.png" alt="Vista Desktop" width="600" style="margin-right: 30px;"/>
+  <img src="https://github.com/Jorgeluuu/Multiclass_Clasification/blob/feature/frontend/client/src/assets/images/iPhone-14-Pro-Max-473x968.png" alt="Vista Móvil" width="180"/>
   <br/>
   <em>Interfaz Desktop y Móvil - Predicciones ML en tiempo real</em>
 </div>
@@ -170,8 +170,8 @@ Sistema de predicción del rendimiento académico utilizando algoritmos de Machi
 <p align="center"><strong>Plataforma de Análisis de Credibilidad Informativa</strong></p>
 
 <div align="center">
-  <img src="https://github.com/Bootcamp-IA-P4/the-critical-lens/blob/main/static/img/Desktop.png" alt="Vista Desktop" width="450" style="margin-right: 20px;"/>
-  <img src="https://github.com/Bootcamp-IA-P4/the-critical-lens/blob/main/static/img/Mobile.png" alt="Vista Móvil" width="135"/>
+  <img src="https://github.com/Bootcamp-IA-P4/the-critical-lens/blob/main/static/img/Desktop.png" alt="Vista Desktop" width="600" style="margin-right: 30px;"/>
+  <img src="https://github.com/Bootcamp-IA-P4/the-critical-lens/blob/main/static/img/Mobile.png" alt="Vista Móvil" width="180"/>
   <br/>
   <em>Interfaz Desktop y Móvil - Análisis de credibilidad informativa</em>
 </div>
