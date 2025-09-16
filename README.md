@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Pepe%20%20Ruiz&fontSize=70&fontAlignY=35&desc=Full%20Stack%20%26%20AI%20Developer&descSize=20&descAlignY=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Pepe%20%20Ruiz&fontSize=70&fontAlignY=35&desc=Full%20Stack%20AI%20Developer&descSize=20&descAlignY=60&animation=fadeIn" />
 
 <div style="background: linear-gradient(90deg, #4568dc, #b06ab3); padding: 20px; border-radius: 10px; margin: 20px 0;">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=6E5494&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+%26+AI+Developer;Computer+Vision+%7C+Deep+Learning;React+%2B+Django+%2B+PyTorch;Storytelling+meets+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=6E5494&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+%26+AI+Developer;Computer+Vision+%7C+Deep+Learning;React+%2B+Django+%2B+PyTorch;Scalable+AI+Applications)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,13 +16,13 @@
 
 ## ⚡ Sobre mí
 
-**Full Stack Developer especializado en IA y Data Science** con una perspectiva única: combino **storytelling** y **pensamiento creativo** (mi origen en Comunicación Audiovisual) con expertise técnica avanzada en **Machine Learning**, **Computer Vision** y **desarrollo web escalable**.
+**Full Stack Developer especializado en IA y Data Science** que combina expertise técnica avanzada en **Machine Learning** y **Computer Vision** con habilidades de comunicación desarrolladas durante mi experiencia en Comunicación Audiovisual.
 
-Creo **soluciones digitales inteligentes** que no solo funcionan técnicamente, sino que conectan realmente con las personas. Mi experiencia trabajando de cara al público me ha dado habilidades únicas de **escucha activa** y **resolución de problemas empática** que complementan perfectamente mi dominio técnico.
+Desarrollo **aplicaciones web escalables** que integran inteligencia artificial para transformar datos complejos en insights accionables. Mi experiencia trabajando directamente con usuarios me ha proporcionado una sólida capacidad de **resolución de problemas** y **comprensión de necesidades reales**, cualidades que aplico al crear soluciones técnicas centradas en el usuario final.
 
-🎯 **Mi enfoque**: Transformar datos complejos en insights accionables mediante **React**, **Django**, **PyTorch** y **Computer Vision**  
-🚀 **Especialización**: Modelos predictivos con **95.8% F1-macro**, sistemas **RAG con LLMs**, detección con **YOLO11**  
-🤝 **Metodologías**: Ágiles, colaborativas, centradas en el usuario final
+🎯 **Enfoque**: Desarrollar aplicaciones web escalables que integren IA para resolver problemas reales  
+🚀 **Resultados**: Modelos con **95.8% F1-macro**, sistemas **RAG con LLMs**, detección con **YOLO11**  
+🤝 **Metodologías**: Ágiles y colaborativas
 
 ## 🛠️ Stack Tecnológico
 
@@ -105,13 +105,13 @@ Creo **soluciones digitales inteligentes** que no solo funcionan técnicamente, 
   <em>Sistema YOLO11 especializado - Detección automática de logos Nike y Adidas</em>
 </div>
 
-**🔥 Métricas de rendimiento**: Precisión **98%** | Recall **93%** | Pipeline automatizado desde URL hasta métricas
+**Métricas**: Precisión **98%** | Recall **93%** | Pipeline automatizado desde URL hasta métricas
 
-Sistema integral que combina **Computer Vision avanzada** con análisis de compliance contractual:
-- 🤖 **Modelos YOLO11 especializados** para detección de Nike y Adidas 
-- 📊 **Dashboard interactivo** con carrusel de detecciones y análisis ROI
-- ⚡ **Pipeline automatizado**: descarga de videos → análisis frame-by-frame → métricas
-- 📈 **Impacto**: Reduce análisis manual de 4+ horas a 15 minutos automatizados
+Sistema que combina **Computer Vision** con análisis de compliance contractual:
+- **Modelos YOLO11 especializados** para detección de Nike y Adidas 
+- **Dashboard interactivo** con carrusel de detecciones y análisis ROI
+- **Pipeline automatizado**: descarga de videos → análisis frame-by-frame → métricas
+- **Impacto**: Reduce análisis manual de 4+ horas a 15 minutos automatizados
 
 <div align="center">
 
@@ -140,13 +140,13 @@ Sistema integral que combina **Computer Vision avanzada** con análisis de compl
   <em>Modelo BiLSTM personalizado - Dashboard con visualizaciones avanzadas</em>
 </div>
 
-**🔥 Métricas de rendimiento**: F1-macro **95.8%** | Modelo personalizado **2.7M parámetros** | 12 tipos de toxicidad
+**Métricas**: F1-macro **95.8%** | Modelo personalizado **2.7M parámetros** | 12 tipos de toxicidad
 
-Sistema completo que transforma datos no estructurados de YouTube en insights accionables:
-- 🤖 **Modelo BiLSTM híbrido** con arquitectura de atención múltiple
-- 📊 **Dashboard interactivo** con radar charts, scatter plots y heatmaps
-- 🔍 **Detector de sarcasmo** y correlación sentiment-toxicidad
-- ⚡ **Pipeline ETL** para extracción masiva de comentarios con YouTube API v3
+Sistema que transforma datos no estructurados de YouTube en insights accionables:
+- **Modelo BiLSTM híbrido** con arquitectura de atención múltiple
+- **Dashboard interactivo** con radar charts, scatter plots y heatmaps
+- **Detector de sarcasmo** y correlación sentiment-toxicidad
+- **Pipeline ETL** para extracción masiva de comentarios con YouTube API v3
 
 <div align="center">
 
@@ -174,14 +174,14 @@ Sistema completo que transforma datos no estructurados de YouTube en insights ac
   <em>Sistema RAG con Pinecone - Motor multi-LLM con OpenRouter</em>
 </div>
 
-**🔥 Capacidades**: Multi-LLM **(LLaMA 3, Mistral 7B, GPT-3.5)** | RAG con **Pinecone Vector Database** | 4 idiomas
+**Capacidades**: Multi-LLM **(LLaMA 3, Mistral 7B, GPT-3.5)** | RAG con **Pinecone Vector Database** | 4 idiomas
 
-Sistema integral que combina múltiples LLMs con generación de imágenes IA y análisis de datos:
-- 🤖 **Motor multi-LLM** con OpenRouter para generación inteligente
-- 🔍 **Sistema RAG** con Pinecone para contexto empresarial relevante
-- 🎨 **Generación de imágenes** con Stability AI y Stable Diffusion XL
-- 📊 **MP Finance**: análisis financiero con datos en tiempo real
-- 🧪 **MP PRO**: divulgación científica integrando papers de ArXiv
+Sistema que combina múltiples LLMs con generación de imágenes IA y análisis de datos:
+- **Motor multi-LLM** con OpenRouter para generación inteligente
+- **Sistema RAG** con Pinecone para contexto empresarial relevante
+- **Generación de imágenes** con Stability AI y Stable Diffusion XL
+- **MP Finance**: análisis financiero con datos en tiempo real
+- **MP PRO**: divulgación científica integrando papers de ArXiv
 
 <div align="center">
 
@@ -193,6 +193,40 @@ Sistema integral que combina múltiples LLMs con generación de imágenes IA y a
 ![Stability AI](https://custom-icon-badges.demolab.com/badge/Stability_AI-000000.svg?style=flat-square&logo=stability&logoColor=white)
 
 [![Repo](https://custom-icon-badges.demolab.com/badge/-Ver%20Proyecto-1F222E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bootcamp-IA-P4/project-ai-llms-group-4)
+
+</div>
+
+---
+
+### 📊 ODC Manager - Full Stack Management System
+
+<p align="center"><strong>Sistema integral de gestión educativa para Orange Digital Center</strong></p>
+
+<div align="center">
+  <img src="https://github.com/peperuizdev/peperuizdev/blob/main/ODC_desktop.png" alt="Vista Desktop" width="600" style="margin-right: 30px;"/>
+  <img src="https://github.com/peperuizdev/peperuizdev/blob/main/ODC_mobile.png" alt="Vista Móvil" width="180"/>
+  <br/>
+  <em>Panel administrativo completo - Diseño basado en el libro de estilo de Orange</em>
+</div>
+
+**Funcionalidades**: Panel administrativo | Estadísticas en tiempo real | Generación de reportes descargables
+
+Sistema para centralizar y optimizar la gestión de inscripciones en Orange Digital Center:
+- **Panel administrativo** con estadísticas en tiempo real y generación de informes
+- **Gestión de base de datos** relacional escalable con MySQL y Sequelize
+- **Autenticación segura** con JWT y Bcrypt para administradores
+- **Diseño corporativo** adaptado al libro de estilo de Orange
+
+<div align="center">
+
+![React](https://custom-icon-badges.demolab.com/badge/React-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://custom-icon-badges.demolab.com/badge/Node.js-339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://custom-icon-badges.demolab.com/badge/Express-000000.svg?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Tailwind](https://custom-icon-badges.demolab.com/badge/Tailwind-06B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![JWT](https://custom-icon-badges.demolab.com/badge/JWT-000000.svg?style=flat-square&logo=json-web-tokens&logoColor=white)
+
+[![Repo](https://custom-icon-badges.demolab.com/badge/-Ver%20Proyecto-1F222E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarthVada36/odc_management_project)
 
 </div>
 
