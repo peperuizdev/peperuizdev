@@ -16,7 +16,7 @@
 
 ## ⚡ Sobre mí
 
-**Full Stack Developer especializado en IA y Data Science** que combina expertise técnica en **Machine Learning** y **Computer Vision** con habilidades de comunicación desarrolladas durante mi experiencia en Comunicación Audiovisual.
+**Full Stack Developer especializado en IA y Data Science** que combina experiencia técnica en **Machine Learning** y **Computer Vision** con habilidades de comunicación desarrolladas durante mi experiencia en Comunicación Audiovisual.
 
 Desarrollo **aplicaciones web escalables** que integran inteligencia artificial para transformar datos complejos en insights accionables. Mi experiencia trabajando directamente con usuarios me ha proporcionado una sólida capacidad de **resolución de problemas** y **comprensión de necesidades reales**, cualidades que aplico al crear soluciones técnicas centradas en el usuario final.
 
